@@ -5,11 +5,11 @@
 #### **Datasets:** [[Dataset 3.1](https://github.com/tech4alltraining/aiml/raw/refs/heads/main/datasets_cv_nlp.zip)] -  [[Demo 1](https://techcommunity.microsoft.com/blog/azure-ai-services-blog/explore-azure-ai-services-curated-list-of-prebuilt-models-and-demos/4230788)]
 #### **Introduction to NLP**
 - Introduction to NLP
-  - (https://language.cognitive.azure.com/tryout/detectLanguage)
-  - https://language.cognitive.azure.com/tryout/keyPhrases
-  - https://language.cognitive.azure.com/tryout/namedEntities
-  - https://language.cognitive.azure.com/tryout/sentiment
-  - https://language.cognitive.azure.com/tryout/answerQuestions
+  - [Demo: Language Detection](https://language.cognitive.azure.com/tryout/detectLanguage)
+  - [Demo: Keyphrase Extraction](https://language.cognitive.azure.com/tryout/keyPhrases)
+  - [Demo: Named Entity Recognition](https://language.cognitive.azure.com/tryout/namedEntities)
+  - [Demo: Sentiment Analysis](https://language.cognitive.azure.com/tryout/sentiment)
+  - [Demo: QnA](https://language.cognitive.azure.com/tryout/answerQuestions)
 
 - Basics of Text Processing  [[Notebook 3.2](https://colab.research.google.com/drive/1gQXofW7Q86UFYL4h3Af6Chcr4ClNmd5U?usp=sharing)]
   - Tokenization, Stemming, and Lemmatization
@@ -19,13 +19,13 @@
 #### **Basics of Computer Vision**
 
 - Introduction to Computer Vision [Dataset 3.1]
-  - https://teachablemachine.withgoogle.com/train
-  - https://portal.vision.cognitive.azure.com/demo/generic-object-detection
-  - https://portal.vision.cognitive.azure.com/demo/image-captioning
-  - https://portal.vision.cognitive.azure.com/demo/face-detection
-  - https://portal.vision.cognitive.azure.com/demo/extract-text-from-images
+  - [Demo: Teachable Machine](https://teachablemachine.withgoogle.com/train)
+  - [Demo: Object Detection](https://portal.vision.cognitive.azure.com/demo/generic-object-detection)
+  - [Demo: Image Captioning](https://portal.vision.cognitive.azure.com/demo/image-captioning)
+  - [Demo: Face Detection](https://portal.vision.cognitive.azure.com/demo/face-detection)
+  - [Demo: OCR/Extract Text](https://portal.vision.cognitive.azure.com/demo/extract-text-from-images)
 - Basics Image Processing: [[Notebook 3.4](https://colab.research.google.com/drive/1XfsRBPlc4BTpd6Qr7FRel24C_Yu2tyIb?usp=sharing)]
-  - https://www.simplilearn.com/tutorials/python-tutorial/opencv-python
+  - [https://www.simplilearn.com/tutorials/python-tutorial/opencv-python](https://www.simplilearn.com/tutorials/python-tutorial/opencv-python)
   - https://www.analyticsvidhya.com/blog/2021/09/a-beginners-guide-to-image-processing-with-opencv-and-python/
 - Introduction to Convolutional Neural Networks (CNNs)
 - Hands-on Project: Image Classification Using CNNs in TensorFlow/Keras [[Notebook 3.5](https://colab.research.google.com/drive/1__mIJ7vivKvJ13kgtV-sx-nwotZFaqYR?usp=sharing)]
