@@ -5,7 +5,7 @@
 #### **Datasets:** [[Dataset 3.1](https://github.com/tech4alltraining/aiml/raw/refs/heads/main/datasets_cv_nlp.zip)] -  [[Demo 1](https://techcommunity.microsoft.com/blog/azure-ai-services-blog/explore-azure-ai-services-curated-list-of-prebuilt-models-and-demos/4230788)]
 #### **Introduction to NLP**
 - Introduction to NLP
-  - https://language.cognitive.azure.com/tryout/detectLanguage
+  - (https://language.cognitive.azure.com/tryout/detectLanguage)
   - https://language.cognitive.azure.com/tryout/keyPhrases
   - https://language.cognitive.azure.com/tryout/namedEntities
   - https://language.cognitive.azure.com/tryout/sentiment
