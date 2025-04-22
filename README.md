@@ -100,6 +100,6 @@ ___
   - [https://www.deeplearning.ai/resources/natural-language-processing/](https://www.deeplearning.ai/resources/natural-language-processing/)
   - [https://builtin.com/data-science/introduction-nlp](https://builtin.com/data-science/introduction-nlp)
 - **Machine Learning Tutorials**
-  - (Video) [Machine Learning Full Course - 12 Hours | Machine Learning Roadmap [2024]-Edureka](https://www.youtube.com/watch?v=N5fSpaaxoZc)
-  - (Video) [Machine Learning Engineer Full Course - 10 Hours | Machine Learning Roadmap [2024] | Edureka](https://www.youtube.com/watch?v=kx7JCsRdMGQ)
-  - (Video) [Machine Learning Full Course 2024 | Learn it LIVE | Machine Learning Tutorial | Simplilearn](https://www.youtube.com/watch?v=fTmR-br9Mjw)
+  - (Video) [Machine Learning Full Course - 12 Hours - Machine Learning Roadmap [2024]-Edureka](https://www.youtube.com/watch?v=N5fSpaaxoZc)
+  - (Video) [Machine Learning Engineer Full Course - 10 Hours - Machine Learning Roadmap [2024] - Edureka](https://www.youtube.com/watch?v=kx7JCsRdMGQ)
+  - (Video) [Machine Learning Full Course 2024 - Learn it LIVE - Machine Learning Tutorial - Simplilearn](https://www.youtube.com/watch?v=fTmR-br9Mjw)
