@@ -2,7 +2,7 @@
 
 ## **ML/AI - FDP - ICTAK**
 ### **Session: Day 3**
-#### **Datasets:** [[Dataset 3.1](https://github.com/tech4alltraining/aiml/raw/refs/heads/main/datasets_cv_nlp.zip)] -  [[Demo 1](https://techcommunity.microsoft.com/blog/azure-ai-services-blog/explore-azure-ai-services-curated-list-of-prebuilt-models-and-demos/4230788)]
+#### **Datasets:** [[Dataset 3.2](https://github.com/tech4alltraining/aiml/raw/refs/heads/main/datasets_cv_nlp.zip)] -  [[Demo 1](https://techcommunity.microsoft.com/blog/azure-ai-services-blog/explore-azure-ai-services-curated-list-of-prebuilt-models-and-demos/4230788)]
 #### **Introduction to NLP**
 - Introduction to NLP
   - [Demo: Language Detection](https://language.cognitive.azure.com/tryout/detectLanguage)
