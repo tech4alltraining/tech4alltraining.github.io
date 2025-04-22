@@ -5,7 +5,9 @@
 - Conditional & Iterative Statements, Python Functions
 - Trends and Opportunities in Machine Learning & Artificial Intelligence
 - Introduction to Machine Learning Life Cycle
+
 ### Day #2
+
 - Tools, Platforms and Frameworks for ML/AI 
   - [Numpy Tutorial](https://www.w3schools.com/python/numpy/default.asp)
   - [Pandas Tutorial](https://www.w3schools.com/python/pandas/default.asp)
@@ -17,7 +19,9 @@
 - Data Pre-processing Techniques
   - **Practice:** [Dataset 2.1](https://raw.githubusercontent.com/tech4alltraining/aiml/refs/heads/main/datasets/prepreprocessing/pre_data.csv) **-** [Notebook 2.3](https://colab.research.google.com/drive/1MsdDPnB3WE3qZZUcZU7QRkJcl0kddz6e?usp=sharing)
 - Introduction to Supervised Learning Techniques
-### Day 3
+
+### Day #3
+
 - Introduction to Regression
 - Linear Regression
 - Case Study on Regression 
@@ -28,7 +32,9 @@
   - **Practice:** [Dataset 3.2](https://raw.githubusercontent.com/tech4alltraining/aiml/refs/heads/main/datasets/classification/iris.csv) **-** [Notebook 3.2](https://colab.research.google.com/drive/1mJQBMddfoi4P8EdgnPZVLo0tFPlAyBsH?usp=sharing)
 - kNN, SVM, Decision Trees, Random Forest, Naive Bayes 
   - **Practice:** [Notebook 3.3](https://colab.research.google.com/drive/1VuFHOR09-Si5rla6CGYHyuWupPL1r8aS?usp=sharing)
-### Day 4
+
+### Day #4
+
 - Introduction to Unsupervised Learning Techniques
 - Clustering Techniques 
 - kMeans Clustering
@@ -38,7 +44,9 @@
 - Introduction to Artificial Neural Network 
 - MLP Classification
   - **Practice:** [Notebook 4.3](https://colab.research.google.com/drive/1EyDdtgXd4UgeE45ZoLjPwZZS_XlyEXBD?usp=sharing)
-### Day 5
+
+### Day #5
+
 - **Practice:** [Dataset 5.1](https://github.com/tech4alltraining/aiml/raw/refs/heads/main/datasets_cv_nlp.zip)
 - Introduction to Computer Vision
 - **Demos-CV**
