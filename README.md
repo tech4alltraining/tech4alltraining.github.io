@@ -37,12 +37,12 @@
 ___
 
 ### **References & Video Tutorials**
-- [Machine Learning Full Course - 12 Hours | Machine Learning Roadmap [2024]-Edureka](https://www.youtube.com/watch?v=N5fSpaaxoZc) -Video
-- (Video) [Machine Learning Engineer Full Course - 10 Hours | Machine Learning Roadmap [2024] | Edureka](https://www.youtube.com/watch?v=kx7JCsRdMGQ)
-- (Video) [Machine Learning Full Course 2024 | Learn it LIVE | Machine Learning Tutorial | Simplilearn](https://www.youtube.com/watch?v=fTmR-br9Mjw)
+- (Video) [Machine Learning Full Course - 12 Hours - Machine Learning Roadmap [2024]-Edureka](https://www.youtube.com/watch?v=N5fSpaaxoZc)
+- (Video) [Machine Learning Engineer Full Course - 10 Hours - Machine Learning Roadmap [2024] | Edureka](https://www.youtube.com/watch?v=kx7JCsRdMGQ)
+- (Video) [Machine Learning Full Course 2024 | Learn it LIVE - Machine Learning Tutorial | Simplilearn](https://www.youtube.com/watch?v=fTmR-br9Mjw)
 - Supervised & Unsupervised Learning
-  - https://www.analyticsvidhya.com/blog/2020/04/supervised-learning-unsupervised-learning/
-  - https://www.analyticsvidhya.com/blog/2021/04/understanding-supervised-and-unsupervised-learning/
+  - [https://www.analyticsvidhya.com/blog/2020/04/supervised-learning-unsupervised-learning/](https://www.analyticsvidhya.com/blog/2020/04/supervised-learning-unsupervised-learning/)
+  - [https://www.analyticsvidhya.com/blog/2021/04/understanding-supervised-and-unsupervised-learning/](https://www.analyticsvidhya.com/blog/2021/04/understanding-supervised-and-unsupervised-learning/)
 - Linear Regression:
   - https://www.analyticsvidhya.com/blog/2021/06/linear-regression-in-machine-learning/
   - https://www.analyticsvidhya.com/blog/2021/10/everything-you-need-to-know-about-linear-regression/
